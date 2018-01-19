@@ -1,3 +1,11 @@
+After you index and quantify you need to move the files into the following
+folder structure so that it works with the R script. Or just fix the bloody R
+script and kalipso scripts to output in a sensible order. Also see the
+reference file used in the index for an example of the cDNA and ncRNA file, but
+look this up to check (ie which to use cDNA, CDS, etc).
+
+I also had issues with the biomart, if you get an error that your database is
+missing just try to re-install the thing (see scrpt).
 .
 ├── examples
 ├── index1.sh
