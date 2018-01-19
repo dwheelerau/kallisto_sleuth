@@ -6,7 +6,7 @@ look this up to check (ie which to use cDNA, CDS, etc).
 
 I also had issues with the biomart, if you get an error that your database is
 missing just try to re-install the thing (see scrpt).
-'''
+```
 .
 ├── examples
 ├── index1.sh
@@ -80,4 +80,4 @@ missing just try to re-install the thing (see scrpt).
 │           └── abundance.h5
 ├── slueth2.R
 └── slueth.R
-'''
+```
